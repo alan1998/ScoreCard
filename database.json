@@ -1,0 +1,26 @@
+{
+    "courses":[
+        {
+            "uid": 1,
+            "name":"The Springs",
+            "holes": [
+                {
+                  "id": 1, 
+                  "whiteDist": 380, 
+                  "yellowDist":360, 
+                  "redDist": 320,
+                  "par": 4,
+                  "si":1
+                },
+                {
+                    "id": 2, 
+                    "whiteDist": 160, 
+                    "yellowDist":130, 
+                    "redDist": 120,
+                    "par": 3,
+                    "si":5
+                  }
+              ]
+        }
+    ]  
+}
